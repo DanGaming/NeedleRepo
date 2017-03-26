@@ -1,0 +1,69 @@
+c:\users\dan\documents\visual studio 2012\Projects\WpfApplicationNeedleClass\WpfApplicationNeedleClass\bin\Debug\WpfApplicationNeedleClass.exe.config
+c:\users\dan\documents\visual studio 2012\Projects\WpfApplicationNeedleClass\WpfApplicationNeedleClass\obj\Debug\MainWindow.baml
+c:\users\dan\documents\visual studio 2012\Projects\WpfApplicationNeedleClass\WpfApplicationNeedleClass\obj\Debug\MainWindow.g.cs
+c:\users\dan\documents\visual studio 2012\Projects\WpfApplicationNeedleClass\WpfApplicationNeedleClass\obj\Debug\App.g.cs
+c:\users\dan\documents\visual studio 2012\Projects\WpfApplicationNeedleClass\WpfApplicationNeedleClass\obj\Debug\WpfApplicationNeedleClass_MarkupCompile.cache
+c:\users\dan\documents\visual studio 2012\Projects\WpfApplicationNeedleClass\WpfApplicationNeedleClass\obj\Debug\WpfApplicationNeedleClass.g.resources
+c:\users\dan\documents\visual studio 2012\Projects\WpfApplicationNeedleClass\WpfApplicationNeedleClass\obj\Debug\WpfApplicationNeedleClass.Properties.Resources.resources
+c:\users\dan\documents\visual studio 2012\Projects\WpfApplicationNeedleClass\WpfApplicationNeedleClass\obj\Debug\WpfApplicationNeedleClass.csproj.GenerateResource.Cache
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\WpfApplicationNeedleClass\WpfApplicationNeedleClass\bin\Debug\WpfApplicationNeedleClass.exe
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\WpfApplicationNeedleClass\WpfApplicationNeedleClass\bin\Debug\WpfApplicationNeedleClass.pdb
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\WpfApplicationNeedleClass\WpfApplicationNeedleClass\obj\Debug\WpfApplicationNeedleClass.exe
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\WpfApplicationNeedleClass\WpfApplicationNeedleClass\obj\Debug\WpfApplicationNeedleClass.pdb
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\WpfApplicationNeedleClass\WpfApplicationNeedleClass\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\WpfApplicationNeedleClass\WpfApplicationNeedleClass\obj\Debug\WpfApplicationNeedleClass_MarkupCompile.lref
+F:\WpfApplicationNeedleClass\WpfApplicationNeedleClass\bin\Debug\WpfApplicationNeedleClass.exe.config
+F:\WpfApplicationNeedleClass\WpfApplicationNeedleClass\obj\Debug\WpfApplicationNeedleClass.exe
+F:\WpfApplicationNeedleClass\WpfApplicationNeedleClass\obj\Debug\WpfApplicationNeedleClass.pdb
+F:\WpfApplicationNeedleClass\WpfApplicationNeedleClass\bin\Debug\WpfApplicationNeedleClass.exe
+F:\WpfApplicationNeedleClass\WpfApplicationNeedleClass\bin\Debug\WpfApplicationNeedleClass.pdb
+F:\WpfApplicationNeedleClass\WpfApplicationNeedleClass\obj\Debug\WpfApplicationNeedleClass.csprojResolveAssemblyReference.cache
+F:\WpfApplicationNeedleClass\WpfApplicationNeedleClass\obj\Debug\MainWindow.g.cs
+F:\WpfApplicationNeedleClass\WpfApplicationNeedleClass\obj\Debug\App.g.cs
+F:\WpfApplicationNeedleClass\WpfApplicationNeedleClass\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\WpfApplicationNeedleClass\WpfApplicationNeedleClass\obj\Debug\WpfApplicationNeedleClass_MarkupCompile.cache
+F:\WpfApplicationNeedleClass\WpfApplicationNeedleClass\obj\Debug\WpfApplicationNeedleClass_MarkupCompile.lref
+F:\WpfApplicationNeedleClass\WpfApplicationNeedleClass\obj\Debug\MainWindow.baml
+F:\WpfApplicationNeedleClass\WpfApplicationNeedleClass\obj\Debug\WpfApplicationNeedleClass.g.resources
+F:\WpfApplicationNeedleClass\WpfApplicationNeedleClass\obj\Debug\WpfApplicationNeedleClass.Properties.Resources.resources
+F:\WpfApplicationNeedleClass\WpfApplicationNeedleClass\obj\Debug\WpfApplicationNeedleClass.csproj.GenerateResource.Cache
+F:\Today\WpfApplicationNeedleClass\WpfApplicationNeedleClass\bin\Debug\WpfApplicationNeedleClass.exe.config
+F:\Today\WpfApplicationNeedleClass\WpfApplicationNeedleClass\obj\Debug\WpfApplicationNeedleClass.exe
+F:\Today\WpfApplicationNeedleClass\WpfApplicationNeedleClass\obj\Debug\WpfApplicationNeedleClass.pdb
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\WpfApplicationNeedleClass\WpfApplicationNeedleClass\obj\Debug\WpfApplicationNeedleClass.csprojResolveAssemblyReference.cache
+\\Studentfiles.win.canberra.edu.au\Homes$\u3100055\My Documents\Visual Studio 2012\Projects\WpfApplicationNeedleClass\WpfApplicationNeedleClass\bin\Debug\WpfApplicationNeedleClass.exe.config
+\\Studentfiles.win.canberra.edu.au\Homes$\u3100055\My Documents\Visual Studio 2012\Projects\WpfApplicationNeedleClass\WpfApplicationNeedleClass\obj\Debug\WpfApplicationNeedleClass.exe
+\\Studentfiles.win.canberra.edu.au\Homes$\u3100055\My Documents\Visual Studio 2012\Projects\WpfApplicationNeedleClass\WpfApplicationNeedleClass\obj\Debug\WpfApplicationNeedleClass.pdb
+\\Studentfiles.win.canberra.edu.au\Homes$\u3100055\My Documents\Visual Studio 2012\Projects\WpfApplicationNeedleClass\WpfApplicationNeedleClass\bin\Debug\WpfApplicationNeedleClass.exe
+\\Studentfiles.win.canberra.edu.au\Homes$\u3100055\My Documents\Visual Studio 2012\Projects\WpfApplicationNeedleClass\WpfApplicationNeedleClass\bin\Debug\WpfApplicationNeedleClass.pdb
+\\Studentfiles.win.canberra.edu.au\Homes$\u3100055\My Documents\Visual Studio 2012\Projects\WpfApplicationNeedleClass\WpfApplicationNeedleClass\obj\Debug\WpfApplicationNeedleClass.csprojResolveAssemblyReference.cache
+\\Studentfiles.win.canberra.edu.au\Homes$\u3100055\My Documents\Visual Studio 2012\Projects\WpfApplicationNeedleClass\WpfApplicationNeedleClass\obj\Debug\MainWindow.g.cs
+\\Studentfiles.win.canberra.edu.au\Homes$\u3100055\My Documents\Visual Studio 2012\Projects\WpfApplicationNeedleClass\WpfApplicationNeedleClass\obj\Debug\App.g.cs
+\\Studentfiles.win.canberra.edu.au\Homes$\u3100055\My Documents\Visual Studio 2012\Projects\WpfApplicationNeedleClass\WpfApplicationNeedleClass\obj\Debug\GeneratedInternalTypeHelper.g.cs
+\\Studentfiles.win.canberra.edu.au\Homes$\u3100055\My Documents\Visual Studio 2012\Projects\WpfApplicationNeedleClass\WpfApplicationNeedleClass\obj\Debug\WpfApplicationNeedleClass_MarkupCompile.cache
+\\Studentfiles.win.canberra.edu.au\Homes$\u3100055\My Documents\Visual Studio 2012\Projects\WpfApplicationNeedleClass\WpfApplicationNeedleClass\obj\Debug\WpfApplicationNeedleClass_MarkupCompile.lref
+\\Studentfiles.win.canberra.edu.au\Homes$\u3100055\My Documents\Visual Studio 2012\Projects\WpfApplicationNeedleClass\WpfApplicationNeedleClass\obj\Debug\MainWindow.baml
+\\Studentfiles.win.canberra.edu.au\Homes$\u3100055\My Documents\Visual Studio 2012\Projects\WpfApplicationNeedleClass\WpfApplicationNeedleClass\obj\Debug\WpfApplicationNeedleClass.g.resources
+\\Studentfiles.win.canberra.edu.au\Homes$\u3100055\My Documents\Visual Studio 2012\Projects\WpfApplicationNeedleClass\WpfApplicationNeedleClass\obj\Debug\WpfApplicationNeedleClass.Properties.Resources.resources
+\\Studentfiles.win.canberra.edu.au\Homes$\u3100055\My Documents\Visual Studio 2012\Projects\WpfApplicationNeedleClass\WpfApplicationNeedleClass\obj\Debug\WpfApplicationNeedleClass.csproj.GenerateResource.Cache
+G:\Final\WpfApplicationNeedleClass\WpfApplicationNeedleClass\bin\Debug\WpfApplicationNeedleClass.exe.config
+G:\Final\WpfApplicationNeedleClass\WpfApplicationNeedleClass\obj\Debug\WpfApplicationNeedleClass.exe
+G:\Final\WpfApplicationNeedleClass\WpfApplicationNeedleClass\obj\Debug\WpfApplicationNeedleClass.pdb
+F:\Final\WpfApplicationNeedleClasss\WpfApplicationNeedleClass\bin\Debug\WpfApplicationNeedleClass.exe.config
+F:\Final\WpfApplicationNeedleClasss\WpfApplicationNeedleClass\obj\Debug\WpfApplicationNeedleClass.exe
+F:\Final\WpfApplicationNeedleClasss\WpfApplicationNeedleClass\obj\Debug\WpfApplicationNeedleClass.pdb
+F:\Final\WpfApplicationNeedleClasss\WpfApplicationNeedleClass\bin\Debug\WpfApplicationNeedleClass.exe
+F:\Final\WpfApplicationNeedleClasss\WpfApplicationNeedleClass\bin\Debug\WpfApplicationNeedleClass.pdb
+F:\Final\WpfApplicationNeedleClasss\WpfApplicationNeedleClass\obj\Debug\WpfApplicationNeedleClass.csprojResolveAssemblyReference.cache
+F:\Final\WpfApplicationNeedleClasss\WpfApplicationNeedleClass\obj\Debug\MainWindow.g.cs
+F:\Final\WpfApplicationNeedleClasss\WpfApplicationNeedleClass\obj\Debug\App.g.cs
+F:\Final\WpfApplicationNeedleClasss\WpfApplicationNeedleClass\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Final\WpfApplicationNeedleClasss\WpfApplicationNeedleClass\obj\Debug\WpfApplicationNeedleClass_MarkupCompile.cache
+F:\Final\WpfApplicationNeedleClasss\WpfApplicationNeedleClass\obj\Debug\WpfApplicationNeedleClass_MarkupCompile.lref
+F:\Final\WpfApplicationNeedleClasss\WpfApplicationNeedleClass\obj\Debug\MainWindow.baml
+F:\Final\WpfApplicationNeedleClasss\WpfApplicationNeedleClass\obj\Debug\WpfApplicationNeedleClass.g.resources
+F:\Final\WpfApplicationNeedleClasss\WpfApplicationNeedleClass\obj\Debug\WpfApplicationNeedleClass.Properties.Resources.resources
+F:\Final\WpfApplicationNeedleClasss\WpfApplicationNeedleClass\obj\Debug\WpfApplicationNeedleClass.csproj.GenerateResource.Cache
+G:\Programs\Ohh yeaaa\UNI\New folder\Final\WpfApplicationNeedleClasss\WpfApplicationNeedleClass\bin\Debug\WpfApplicationNeedleClass.exe.config
+G:\Programs\Ohh yeaaa\UNI\New folder\Final\WpfApplicationNeedleClasss\WpfApplicationNeedleClass\obj\Debug\WpfApplicationNeedleClass.exe
+G:\Programs\Ohh yeaaa\UNI\New folder\Final\WpfApplicationNeedleClasss\WpfApplicationNeedleClass\obj\Debug\WpfApplicationNeedleClass.pdb
